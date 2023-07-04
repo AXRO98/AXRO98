@@ -1,4 +1,4 @@
-# Welcome to my github 
+# Welcome to my GitHub
 
 # 🌐 Socials 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100082676565939) 
