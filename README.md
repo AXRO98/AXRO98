@@ -1,7 +1,7 @@
 # Welcome to my GitHub
 
 # 🌐 Socials
-![Gmail](axroc98@proton.me)
+![Google](axroc98@proton.me)
 
 # 💻 Tech Stack 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
