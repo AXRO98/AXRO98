@@ -1,4 +1,5 @@
-<big><p align="center" style="font-size: 18px;">Welcome To My GitHub</p></big>
+<p align="center"><img width="80%" alt="Welcome To My Github" src="./Image/Welcome.png" /></p>
+
 
 # 💻 Tech Stack 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
