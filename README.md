@@ -1,4 +1,4 @@
-<p align="center" width="20%">Welcome To My GitHub</p>
+<h1 align="center">Welcome To My GitHub</h1>
 
 # 💻 Tech Stack 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
